@@ -1,0 +1,1 @@
+""" Contains forms code for the blog app """
