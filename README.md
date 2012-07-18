@@ -23,5 +23,6 @@ Install
 =======
 
 Assuming you have virtualenv and pip installed, simply source your virtual environment and run
- * pip install -r requirements.txt 
+ * pip install -r requirements.txt
+
 from the project's root directory.
